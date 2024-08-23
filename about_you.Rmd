@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Nathaly Ruiz"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I went to Eastside High School, I did indeed graduate. I am a part of the 2019 graduating class. I preferred English class, no offense Mr. Brown. It was a more intriguing subject for me.
      
 
 
@@ -27,14 +27,14 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+ I have a Apple Macbook, I would say I'm a solid 7 1/2, I've been using technology for as long as I can remember. It's all pretty repetitive. If I don't have the answer to something I can just simply google it. My internet access is really good, I will never buffer.  
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
-   
+          
  
 
 
